@@ -7,10 +7,8 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
+## DEMO OUTPUT for IOS and Android
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="476" alt="Screenshot_20230801_06522534" src="https://github.com/AshwanTariq/movie_app/assets/81414269/09e2c61d-3686-43d9-81c5-5b305832cd03">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
